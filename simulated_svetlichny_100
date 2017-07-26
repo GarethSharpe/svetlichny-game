@@ -1,0 +1,1810 @@
+--------------------
+ROUND 1
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00101 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: 1
+Bob: -1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 2
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Referee: 101
+i: 1, j: -1, k: 1
+q: 2
+
+Alice: 1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 3
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 4
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 5
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 101
+i: 1, j: -1, k: 1
+q: 2
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 6
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 7
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 8
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 9
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00101 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: 1
+Bob: -1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 10
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 11
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 12
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00101 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: 1
+Bob: -1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 13
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 14
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 001
+i: -1, j: -1, k: 1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 15
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: 1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 16
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: False
+--------------------
+ROUND 17
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: -1
+Bob: -1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 18
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 101
+i: 1, j: -1, k: 1
+q: 2
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 19
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 20
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 21
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 22
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00101 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: 1
+Bob: -1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 23
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 24
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 25
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 26
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 001
+i: -1, j: -1, k: 1
+q: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 27
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: -1
+Bob: -1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 28
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 29
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 30
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 31
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 32
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 33
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: 1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: False
+--------------------
+ROUND 34
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 35
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 36
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 101
+i: 1, j: -1, k: 1
+q: 2
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 37
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 38
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 39
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00101 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: 1
+Bob: -1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 40
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: 1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 41
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 42
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 001
+i: -1, j: -1, k: 1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 43
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 101
+i: 1, j: -1, k: 1
+q: 2
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 44
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 45
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 101
+i: 1, j: -1, k: 1
+q: 2
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 46
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 001
+i: -1, j: -1, k: 1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 47
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: 1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 48
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 49
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 50
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 51
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 52
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 53
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: 1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 54
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Referee: 101
+i: 1, j: -1, k: 1
+q: 2
+
+Alice: -1
+Bob: -1
+Charlie: 1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 55
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00101 | 
+Probability | 1.000 | 
+
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
+
+Alice: 1
+Bob: -1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 56
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 57
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 58
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 59
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 60
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 001
+i: -1, j: -1, k: 1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 61
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 62
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 63
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 64
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 001
+i: -1, j: -1, k: 1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 65
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 66
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 001
+i: -1, j: -1, k: 1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 67
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 68
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00101 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: 1
+Bob: -1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 69
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 70
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: 1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 71
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 001
+i: -1, j: -1, k: 1
+q: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 72
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 101
+i: 1, j: -1, k: 1
+q: 2
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 73
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 001
+i: -1, j: -1, k: 1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 74
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 75
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 76
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
+
+Alice: -1
+Bob: -1
+Charlie: 1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 77
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: -1
+Bob: -1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 78
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
+
+Alice: 1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 79
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 80
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00101 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: 1
+Bob: -1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 81
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: -1
+Bob: -1
+Charlie: 1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 82
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 83
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 84
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 101
+i: 1, j: -1, k: 1
+q: 2
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 85
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: -1
+Bob: -1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 86
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 87
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: 1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 88
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 89
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: -1
+Bob: -1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 90
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 91
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: -1
+Bob: -1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 92
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Referee: 001
+i: -1, j: -1, k: 1
+q: 1
+
+Alice: -1
+Bob: -1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 93
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 94
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: 1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 95
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 101
+i: 1, j: -1, k: 1
+q: 2
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 96
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 101
+i: 1, j: -1, k: 1
+q: 2
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 97
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: False
+--------------------
+ROUND 98
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 99
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 100
+--------------------
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 001
+i: -1, j: -1, k: 1
+q: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: True
+
+File class_results.txt has been created.
+
+--------------------
+FINAL RESULTS
+--------------------
+Rounds: 100
+Wins:  84
+Losses: 16
+P(win): 0.84
