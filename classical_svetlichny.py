@@ -1,5 +1,6 @@
 '''
-Created on July 20, 2017
+Created on Jul 22, 2017
+Finalized on Jul 26, 2017
 
 @author: Gareth Sharpe
 '''
