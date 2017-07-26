@@ -1,54 +1,6 @@
 --------------------
 ROUND 1
 --------------------
-Referee: 011
-i: -1, j: 1, k: 1
-q: 2
-
-Alice: -1
-Bob: 1
-Charlie: 1
-Condition: -1.0
-Win: True
---------------------
-ROUND 2
---------------------
-Referee: 111
-i: 1, j: 1, k: 1
-q: 3
-
-Alice: 1
-Bob: 1
-Charlie: 1
-Condition: -1.0
-Win: False
---------------------
-ROUND 3
---------------------
-Referee: 111
-i: 1, j: 1, k: 1
-q: 3
-
-Alice: 1
-Bob: 1
-Charlie: 1
-Condition: -1.0
-Win: False
---------------------
-ROUND 4
---------------------
-Referee: 011
-i: -1, j: 1, k: 1
-q: 2
-
-Alice: -1
-Bob: 1
-Charlie: 1
-Condition: -1.0
-Win: True
---------------------
-ROUND 5
---------------------
 Referee: 100
 i: 1, j: -1, k: -1
 q: 1
@@ -59,19 +11,7 @@ Charlie: -1
 Condition: 1.0
 Win: True
 --------------------
-ROUND 6
---------------------
-Referee: 001
-i: -1, j: -1, k: 1
-q: 1
-
-Alice: -1
-Bob: -1
-Charlie: 1
-Condition: 1.0
-Win: True
---------------------
-ROUND 7
+ROUND 2
 --------------------
 Referee: 110
 i: 1, j: 1, k: -1
@@ -80,178 +20,82 @@ q: 2
 Alice: 1
 Bob: 1
 Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 3
+--------------------
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: False
+--------------------
+ROUND 4
+--------------------
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: False
+--------------------
+ROUND 5
+--------------------
+Referee: 101
+i: 1, j: -1, k: 1
+q: 2
+
+Alice: 1
+Bob: -1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 6
+--------------------
+Referee: 101
+i: 1, j: -1, k: 1
+q: 2
+
+Alice: 1
+Bob: -1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 7
+--------------------
+Referee: 101
+i: 1, j: -1, k: 1
+q: 2
+
+Alice: 1
+Bob: -1
+Charlie: 1
 Condition: -1.0
 Win: True
 --------------------
 ROUND 8
 --------------------
-Referee: 101
-i: 1, j: -1, k: 1
-q: 2
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
 
 Alice: 1
-Bob: -1
+Bob: 1
 Charlie: 1
 Condition: -1.0
-Win: True
+Win: False
 --------------------
 ROUND 9
---------------------
-Referee: 001
-i: -1, j: -1, k: 1
-q: 1
-
-Alice: -1
-Bob: -1
-Charlie: 1
-Condition: 1.0
-Win: True
---------------------
-ROUND 10
---------------------
-Referee: 000
-i: -1, j: -1, k: -1
-q: 0
-
-Alice: -1
-Bob: -1
-Charlie: -1
-Condition: 1.0
-Win: False
---------------------
-ROUND 11
---------------------
-Referee: 010
-i: -1, j: 1, k: -1
-q: 1
-
-Alice: -1
-Bob: 1
-Charlie: -1
-Condition: 1.0
-Win: True
---------------------
-ROUND 12
---------------------
-Referee: 111
-i: 1, j: 1, k: 1
-q: 3
-
-Alice: 1
-Bob: 1
-Charlie: 1
-Condition: -1.0
-Win: False
---------------------
-ROUND 13
---------------------
-Referee: 100
-i: 1, j: -1, k: -1
-q: 1
-
-Alice: 1
-Bob: -1
-Charlie: -1
-Condition: 1.0
-Win: True
---------------------
-ROUND 14
---------------------
-Referee: 101
-i: 1, j: -1, k: 1
-q: 2
-
-Alice: 1
-Bob: -1
-Charlie: 1
-Condition: -1.0
-Win: True
---------------------
-ROUND 15
---------------------
-Referee: 011
-i: -1, j: 1, k: 1
-q: 2
-
-Alice: -1
-Bob: 1
-Charlie: 1
-Condition: -1.0
-Win: True
---------------------
-ROUND 16
---------------------
-Referee: 111
-i: 1, j: 1, k: 1
-q: 3
-
-Alice: 1
-Bob: 1
-Charlie: 1
-Condition: -1.0
-Win: False
---------------------
-ROUND 17
---------------------
-Referee: 010
-i: -1, j: 1, k: -1
-q: 1
-
-Alice: -1
-Bob: 1
-Charlie: -1
-Condition: 1.0
-Win: True
---------------------
-ROUND 18
---------------------
-Referee: 111
-i: 1, j: 1, k: 1
-q: 3
-
-Alice: 1
-Bob: 1
-Charlie: 1
-Condition: -1.0
-Win: False
---------------------
-ROUND 19
---------------------
-Referee: 000
-i: -1, j: -1, k: -1
-q: 0
-
-Alice: -1
-Bob: -1
-Charlie: -1
-Condition: 1.0
-Win: False
---------------------
-ROUND 20
---------------------
-Referee: 100
-i: 1, j: -1, k: -1
-q: 1
-
-Alice: 1
-Bob: -1
-Charlie: -1
-Condition: 1.0
-Win: True
---------------------
-ROUND 21
---------------------
-Referee: 111
-i: 1, j: 1, k: 1
-q: 3
-
-Alice: 1
-Bob: 1
-Charlie: 1
-Condition: -1.0
-Win: False
---------------------
-ROUND 22
 --------------------
 Referee: 110
 i: 1, j: 1, k: -1
@@ -263,7 +107,7 @@ Charlie: -1
 Condition: -1.0
 Win: True
 --------------------
-ROUND 23
+ROUND 10
 --------------------
 Referee: 001
 i: -1, j: -1, k: 1
@@ -275,7 +119,91 @@ Charlie: 1
 Condition: 1.0
 Win: True
 --------------------
-ROUND 24
+ROUND 11
+--------------------
+Referee: 001
+i: -1, j: -1, k: 1
+q: 1
+
+Alice: -1
+Bob: -1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 12
+--------------------
+Referee: 001
+i: -1, j: -1, k: 1
+q: 1
+
+Alice: -1
+Bob: -1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 13
+--------------------
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: 1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 14
+--------------------
+Referee: 001
+i: -1, j: -1, k: 1
+q: 1
+
+Alice: -1
+Bob: -1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 15
+--------------------
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 16
+--------------------
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: 1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 17
+--------------------
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: False
+--------------------
+ROUND 18
 --------------------
 Referee: 101
 i: 1, j: -1, k: 1
@@ -283,95 +211,95 @@ q: 2
 
 Alice: 1
 Bob: -1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 19
+--------------------
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 20
+--------------------
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 21
+--------------------
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 22
+--------------------
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 23
+--------------------
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 24
+--------------------
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
+
+Alice: -1
+Bob: 1
 Charlie: 1
 Condition: -1.0
 Win: True
 --------------------
 ROUND 25
 --------------------
-Referee: 111
-i: 1, j: 1, k: 1
-q: 3
-
-Alice: 1
-Bob: 1
-Charlie: 1
-Condition: -1.0
-Win: False
---------------------
-ROUND 26
---------------------
-Referee: 000
-i: -1, j: -1, k: -1
-q: 0
-
-Alice: -1
-Bob: -1
-Charlie: -1
-Condition: 1.0
-Win: False
---------------------
-ROUND 27
---------------------
-Referee: 001
-i: -1, j: -1, k: 1
-q: 1
-
-Alice: -1
-Bob: -1
-Charlie: 1
-Condition: 1.0
-Win: True
---------------------
-ROUND 28
---------------------
-Referee: 001
-i: -1, j: -1, k: 1
-q: 1
-
-Alice: -1
-Bob: -1
-Charlie: 1
-Condition: 1.0
-Win: True
---------------------
-ROUND 29
---------------------
-Referee: 110
-i: 1, j: 1, k: -1
+Referee: 101
+i: 1, j: -1, k: 1
 q: 2
 
 Alice: 1
-Bob: 1
-Charlie: -1
+Bob: -1
+Charlie: 1
 Condition: -1.0
 Win: True
 --------------------
-ROUND 30
---------------------
-Referee: 100
-i: 1, j: -1, k: -1
-q: 1
-
-Alice: 1
-Bob: -1
-Charlie: -1
-Condition: 1.0
-Win: True
---------------------
-ROUND 31
---------------------
-Referee: 000
-i: -1, j: -1, k: -1
-q: 0
-
-Alice: -1
-Bob: -1
-Charlie: -1
-Condition: 1.0
-Win: False
---------------------
-ROUND 32
+ROUND 26
 --------------------
 Referee: 011
 i: -1, j: 1, k: 1
@@ -383,7 +311,7 @@ Charlie: 1
 Condition: -1.0
 Win: True
 --------------------
-ROUND 33
+ROUND 27
 --------------------
 Referee: 010
 i: -1, j: 1, k: -1
@@ -394,6 +322,78 @@ Bob: 1
 Charlie: -1
 Condition: 1.0
 Win: True
+--------------------
+ROUND 28
+--------------------
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: False
+--------------------
+ROUND 29
+--------------------
+Referee: 001
+i: -1, j: -1, k: 1
+q: 1
+
+Alice: -1
+Bob: -1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 30
+--------------------
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 31
+--------------------
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 32
+--------------------
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: False
+--------------------
+ROUND 33
+--------------------
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: False
 --------------------
 ROUND 34
 --------------------
@@ -421,37 +421,37 @@ Win: False
 --------------------
 ROUND 36
 --------------------
-Referee: 000
-i: -1, j: -1, k: -1
-q: 0
-
-Alice: -1
-Bob: -1
-Charlie: -1
-Condition: 1.0
-Win: False
---------------------
-ROUND 37
---------------------
-Referee: 101
-i: 1, j: -1, k: 1
-q: 2
-
-Alice: 1
-Bob: -1
-Charlie: 1
-Condition: -1.0
-Win: True
---------------------
-ROUND 38
---------------------
-Referee: 001
-i: -1, j: -1, k: 1
+Referee: 010
+i: -1, j: 1, k: -1
 q: 1
 
 Alice: -1
-Bob: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 37
+--------------------
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: 1
+Bob: 1
 Charlie: 1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 38
+--------------------
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: -1
 Condition: 1.0
 Win: True
 --------------------
@@ -469,6 +469,42 @@ Win: True
 --------------------
 ROUND 40
 --------------------
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 41
+--------------------
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: 1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 42
+--------------------
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 43
+--------------------
 Referee: 100
 i: 1, j: -1, k: -1
 q: 1
@@ -477,42 +513,6 @@ Alice: 1
 Bob: -1
 Charlie: -1
 Condition: 1.0
-Win: True
---------------------
-ROUND 41
---------------------
-Referee: 011
-i: -1, j: 1, k: 1
-q: 2
-
-Alice: -1
-Bob: 1
-Charlie: 1
-Condition: -1.0
-Win: True
---------------------
-ROUND 42
---------------------
-Referee: 010
-i: -1, j: 1, k: -1
-q: 1
-
-Alice: -1
-Bob: 1
-Charlie: -1
-Condition: 1.0
-Win: True
---------------------
-ROUND 43
---------------------
-Referee: 011
-i: -1, j: 1, k: 1
-q: 2
-
-Alice: -1
-Bob: 1
-Charlie: 1
-Condition: -1.0
 Win: True
 --------------------
 ROUND 44
@@ -529,30 +529,6 @@ Win: True
 --------------------
 ROUND 45
 --------------------
-Referee: 001
-i: -1, j: -1, k: 1
-q: 1
-
-Alice: -1
-Bob: -1
-Charlie: 1
-Condition: 1.0
-Win: True
---------------------
-ROUND 46
---------------------
-Referee: 100
-i: 1, j: -1, k: -1
-q: 1
-
-Alice: 1
-Bob: -1
-Charlie: -1
-Condition: 1.0
-Win: True
---------------------
-ROUND 47
---------------------
 Referee: 110
 i: 1, j: 1, k: -1
 q: 2
@@ -563,16 +539,40 @@ Charlie: -1
 Condition: -1.0
 Win: True
 --------------------
-ROUND 48
+ROUND 46
 --------------------
-Referee: 100
-i: 1, j: -1, k: -1
-q: 1
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
 
-Alice: 1
+Alice: -1
 Bob: -1
 Charlie: -1
 Condition: 1.0
+Win: False
+--------------------
+ROUND 47
+--------------------
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 48
+--------------------
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: 1
+Bob: 1
+Charlie: -1
+Condition: -1.0
 Win: True
 --------------------
 ROUND 49
@@ -589,29 +589,17 @@ Win: True
 --------------------
 ROUND 50
 --------------------
-Referee: 010
-i: -1, j: 1, k: -1
-q: 1
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
 
-Alice: -1
-Bob: 1
-Charlie: -1
-Condition: 1.0
-Win: True
---------------------
-ROUND 51
---------------------
-Referee: 011
-i: -1, j: 1, k: 1
-q: 2
-
-Alice: -1
+Alice: 1
 Bob: 1
 Charlie: 1
 Condition: -1.0
-Win: True
+Win: False
 --------------------
-ROUND 52
+ROUND 51
 --------------------
 Referee: 000
 i: -1, j: -1, k: -1
@@ -623,17 +611,29 @@ Charlie: -1
 Condition: 1.0
 Win: False
 --------------------
+ROUND 52
+--------------------
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
 ROUND 53
 --------------------
-Referee: 001
-i: -1, j: -1, k: 1
-q: 1
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
 
 Alice: -1
 Bob: -1
-Charlie: 1
+Charlie: -1
 Condition: 1.0
-Win: True
+Win: False
 --------------------
 ROUND 54
 --------------------
@@ -649,6 +649,30 @@ Win: True
 --------------------
 ROUND 55
 --------------------
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: 1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 56
+--------------------
+Referee: 101
+i: 1, j: -1, k: 1
+q: 2
+
+Alice: 1
+Bob: -1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 57
+--------------------
 Referee: 100
 i: 1, j: -1, k: -1
 q: 1
@@ -659,41 +683,17 @@ Charlie: -1
 Condition: 1.0
 Win: True
 --------------------
-ROUND 56
---------------------
-Referee: 010
-i: -1, j: 1, k: -1
-q: 1
-
-Alice: -1
-Bob: 1
-Charlie: -1
-Condition: 1.0
-Win: True
---------------------
-ROUND 57
---------------------
-Referee: 010
-i: -1, j: 1, k: -1
-q: 1
-
-Alice: -1
-Bob: 1
-Charlie: -1
-Condition: 1.0
-Win: True
---------------------
 ROUND 58
 --------------------
-Referee: 010
-i: -1, j: 1, k: -1
-q: 1
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
 
 Alice: -1
-Bob: 1
+Bob: -1
 Charlie: -1
 Condition: 1.0
-Win: True
+Win: False
 --------------------
 ROUND 59
 --------------------
@@ -709,17 +709,29 @@ Win: False
 --------------------
 ROUND 60
 --------------------
-Referee: 110
-i: 1, j: 1, k: -1
-q: 2
+Referee: 001
+i: -1, j: -1, k: 1
+q: 1
 
-Alice: 1
-Bob: 1
-Charlie: -1
-Condition: -1.0
+Alice: -1
+Bob: -1
+Charlie: 1
+Condition: 1.0
 Win: True
 --------------------
 ROUND 61
+--------------------
+Referee: 101
+i: 1, j: -1, k: 1
+q: 2
+
+Alice: 1
+Bob: -1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 62
 --------------------
 Referee: 111
 i: 1, j: 1, k: 1
@@ -731,29 +743,17 @@ Charlie: 1
 Condition: -1.0
 Win: False
 --------------------
-ROUND 62
+ROUND 63
 --------------------
-Referee: 011
-i: -1, j: 1, k: 1
+Referee: 101
+i: 1, j: -1, k: 1
 q: 2
 
-Alice: -1
-Bob: 1
+Alice: 1
+Bob: -1
 Charlie: 1
 Condition: -1.0
 Win: True
---------------------
-ROUND 63
---------------------
-Referee: 000
-i: -1, j: -1, k: -1
-q: 0
-
-Alice: -1
-Bob: -1
-Charlie: -1
-Condition: 1.0
-Win: False
 --------------------
 ROUND 64
 --------------------
@@ -769,30 +769,18 @@ Win: True
 --------------------
 ROUND 65
 --------------------
-Referee: 010
-i: -1, j: 1, k: -1
-q: 1
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
 
-Alice: -1
+Alice: 1
 Bob: 1
-Charlie: -1
-Condition: 1.0
-Win: True
+Charlie: 1
+Condition: -1.0
+Win: False
 --------------------
 ROUND 66
 --------------------
-Referee: 101
-i: 1, j: -1, k: 1
-q: 2
-
-Alice: 1
-Bob: -1
-Charlie: 1
-Condition: -1.0
-Win: True
---------------------
-ROUND 67
---------------------
 Referee: 010
 i: -1, j: 1, k: -1
 q: 1
@@ -803,7 +791,7 @@ Charlie: -1
 Condition: 1.0
 Win: True
 --------------------
-ROUND 68
+ROUND 67
 --------------------
 Referee: 111
 i: 1, j: 1, k: 1
@@ -815,19 +803,19 @@ Charlie: 1
 Condition: -1.0
 Win: False
 --------------------
-ROUND 69
+ROUND 68
 --------------------
-Referee: 110
-i: 1, j: 1, k: -1
-q: 2
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
 
-Alice: 1
+Alice: -1
 Bob: 1
 Charlie: -1
-Condition: -1.0
+Condition: 1.0
 Win: True
 --------------------
-ROUND 70
+ROUND 69
 --------------------
 Referee: 000
 i: -1, j: -1, k: -1
@@ -839,16 +827,28 @@ Charlie: -1
 Condition: 1.0
 Win: False
 --------------------
-ROUND 71
+ROUND 70
 --------------------
-Referee: 101
-i: 1, j: -1, k: 1
+Referee: 110
+i: 1, j: 1, k: -1
 q: 2
 
 Alice: 1
-Bob: -1
-Charlie: 1
+Bob: 1
+Charlie: -1
 Condition: -1.0
+Win: True
+--------------------
+ROUND 71
+--------------------
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
 Win: True
 --------------------
 ROUND 72
@@ -865,6 +865,54 @@ Win: False
 --------------------
 ROUND 73
 --------------------
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 74
+--------------------
+Referee: 101
+i: 1, j: -1, k: 1
+q: 2
+
+Alice: 1
+Bob: -1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 75
+--------------------
+Referee: 101
+i: 1, j: -1, k: 1
+q: 2
+
+Alice: 1
+Bob: -1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 76
+--------------------
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 77
+--------------------
 Referee: 000
 i: -1, j: -1, k: -1
 q: 0
@@ -875,64 +923,16 @@ Charlie: -1
 Condition: 1.0
 Win: False
 --------------------
-ROUND 74
---------------------
-Referee: 100
-i: 1, j: -1, k: -1
-q: 1
-
-Alice: 1
-Bob: -1
-Charlie: -1
-Condition: 1.0
-Win: True
---------------------
-ROUND 75
---------------------
-Referee: 110
-i: 1, j: 1, k: -1
-q: 2
-
-Alice: 1
-Bob: 1
-Charlie: -1
-Condition: -1.0
-Win: True
---------------------
-ROUND 76
---------------------
-Referee: 011
-i: -1, j: 1, k: 1
-q: 2
-
-Alice: -1
-Bob: 1
-Charlie: 1
-Condition: -1.0
-Win: True
---------------------
-ROUND 77
---------------------
-Referee: 100
-i: 1, j: -1, k: -1
-q: 1
-
-Alice: 1
-Bob: -1
-Charlie: -1
-Condition: 1.0
-Win: True
---------------------
 ROUND 78
 --------------------
-Referee: 011
-i: -1, j: 1, k: 1
-q: 2
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
 
-Alice: -1
-Bob: 1
-Charlie: 1
-Condition: -1.0
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
 Win: True
 --------------------
 ROUND 79
@@ -961,37 +961,37 @@ Win: True
 --------------------
 ROUND 81
 --------------------
-Referee: 010
-i: -1, j: 1, k: -1
-q: 1
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
 
 Alice: -1
 Bob: 1
-Charlie: -1
-Condition: 1.0
+Charlie: 1
+Condition: -1.0
 Win: True
 --------------------
 ROUND 82
 --------------------
-Referee: 010
-i: -1, j: 1, k: -1
-q: 1
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
 
-Alice: -1
+Alice: 1
 Bob: 1
 Charlie: -1
-Condition: 1.0
+Condition: -1.0
 Win: True
 --------------------
 ROUND 83
 --------------------
-Referee: 001
-i: -1, j: -1, k: 1
+Referee: 100
+i: 1, j: -1, k: -1
 q: 1
 
-Alice: -1
+Alice: 1
 Bob: -1
-Charlie: 1
+Charlie: -1
 Condition: 1.0
 Win: True
 --------------------
@@ -1009,6 +1009,18 @@ Win: True
 --------------------
 ROUND 85
 --------------------
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 86
+--------------------
 Referee: 101
 i: 1, j: -1, k: 1
 q: 2
@@ -1016,18 +1028,6 @@ q: 2
 Alice: 1
 Bob: -1
 Charlie: 1
-Condition: -1.0
-Win: True
---------------------
-ROUND 86
---------------------
-Referee: 110
-i: 1, j: 1, k: -1
-q: 2
-
-Alice: 1
-Bob: 1
-Charlie: -1
 Condition: -1.0
 Win: True
 --------------------
@@ -1045,53 +1045,17 @@ Win: False
 --------------------
 ROUND 88
 --------------------
-Referee: 010
-i: -1, j: 1, k: -1
-q: 1
-
-Alice: -1
-Bob: 1
-Charlie: -1
-Condition: 1.0
-Win: True
---------------------
-ROUND 89
---------------------
-Referee: 111
-i: 1, j: 1, k: 1
-q: 3
-
-Alice: 1
-Bob: 1
-Charlie: 1
-Condition: -1.0
-Win: False
---------------------
-ROUND 90
---------------------
-Referee: 001
-i: -1, j: -1, k: 1
-q: 1
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
 
 Alice: -1
 Bob: -1
-Charlie: 1
+Charlie: -1
 Condition: 1.0
-Win: True
---------------------
-ROUND 91
---------------------
-Referee: 111
-i: 1, j: 1, k: 1
-q: 3
-
-Alice: 1
-Bob: 1
-Charlie: 1
-Condition: -1.0
 Win: False
 --------------------
-ROUND 92
+ROUND 89
 --------------------
 Referee: 100
 i: 1, j: -1, k: -1
@@ -1103,19 +1067,7 @@ Charlie: -1
 Condition: 1.0
 Win: True
 --------------------
-ROUND 93
---------------------
-Referee: 111
-i: 1, j: 1, k: 1
-q: 3
-
-Alice: 1
-Bob: 1
-Charlie: 1
-Condition: -1.0
-Win: False
---------------------
-ROUND 94
+ROUND 90
 --------------------
 Referee: 101
 i: 1, j: -1, k: 1
@@ -1127,31 +1079,19 @@ Charlie: 1
 Condition: -1.0
 Win: True
 --------------------
-ROUND 95
+ROUND 91
 --------------------
-Referee: 000
-i: -1, j: -1, k: -1
-q: 0
+Referee: 001
+i: -1, j: -1, k: 1
+q: 1
 
 Alice: -1
 Bob: -1
-Charlie: -1
+Charlie: 1
 Condition: 1.0
-Win: False
+Win: True
 --------------------
-ROUND 96
---------------------
-Referee: 000
-i: -1, j: -1, k: -1
-q: 0
-
-Alice: -1
-Bob: -1
-Charlie: -1
-Condition: 1.0
-Win: False
---------------------
-ROUND 97
+ROUND 92
 --------------------
 Referee: 010
 i: -1, j: 1, k: -1
@@ -1161,6 +1101,66 @@ Alice: -1
 Bob: 1
 Charlie: -1
 Condition: 1.0
+Win: True
+--------------------
+ROUND 93
+--------------------
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: 1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 94
+--------------------
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: 1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 95
+--------------------
+Referee: 101
+i: 1, j: -1, k: 1
+q: 2
+
+Alice: 1
+Bob: -1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 96
+--------------------
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 97
+--------------------
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: -1.0
 Win: True
 --------------------
 ROUND 98
@@ -1177,15 +1177,15 @@ Win: True
 --------------------
 ROUND 99
 --------------------
-Referee: 101
-i: 1, j: -1, k: 1
-q: 2
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
 
 Alice: 1
-Bob: -1
+Bob: 1
 Charlie: 1
 Condition: -1.0
-Win: True
+Win: False
 --------------------
 ROUND 100
 --------------------
@@ -1205,6 +1205,6 @@ File class_results.txt has been created.
 FINAL RESULTS
 --------------------
 Rounds: 100
-Wins:  72
-Losses: 28
-P(win): 0.72
+Wins:  70
+Losses: 30
+P(win): 0.7
