@@ -1,6 +1,23 @@
 Svetlichny Game
 
-Two sided t-test in R:
+A one sample t-test of the results derived from the quantum strategy provided
+the following output in R:
+
+        One Sample t-test
+
+data:  result[101:200]
+t = 18.205, df = 99, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.686077 0.853923
+sample estimates:
+mean of x 
+     0.77 
+     
+We can be 95% certain that that true mean of the quantum strategy lies within
+(0.69, 0.85) at a p-value < 0.0001.
+
+Two sided t-test provided the folloing output in R:
 
         Welch Two Sample t-test
 
