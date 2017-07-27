@@ -1,16 +1,19 @@
 Svetlichny Game
 
-One sided t-test in R:
+Two sided t-test in R:
 
         Welch Two Sample t-test
 
 data:  result by type
-t = -1.1194, df = 196.58, p-value = 0.8678
-alternative hypothesis: true difference in means is greater than 0
+t = -1.1194, df = 196.58, p-value = 0.2643
+alternative hypothesis: true difference in means is not equal to 0
 95 percent confidence interval:
- -0.173341       Inf
+ -0.19331731  0.05331731
 sample estimates:
 mean in group class  mean in group comp 
                0.70                0.77 
 
-We can be 95% that the true mean difference is greater than 0 (-0.17, INF)
+
+There is little to no evidence to suggest that the difference in means
+is grater than 0. As such, we cannot reject the null hypothesis with a 
+p-value of 0.2643 and a 95% confidence interval of (-0.19, 0.05).
