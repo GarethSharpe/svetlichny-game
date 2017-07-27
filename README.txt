@@ -32,5 +32,5 @@ mean in group class  mean in group comp
 
 
 There is little to no evidence to suggest that the difference in means
-is grater than 0. As such, we cannot reject the null hypothesis with a 
+is greater than 0. As such, we cannot reject the null hypothesis with a 
 p-value of 0.2643 and a 95% confidence interval of (-0.19, 0.05).
