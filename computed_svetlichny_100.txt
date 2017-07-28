@@ -1,0 +1,2366 @@
+--------------------
+ROUND 1
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: False
+--------------------
+ROUND 2
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 3
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 4
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 5
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 101
+i: 1, j: -1, k: 1
+q: 2
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 6
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 7
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00101 | 
+Probability | 1.000 | 
+
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: 1
+Bob: -1
+Charlie: 1
+Condition: 1.0
+Win: False
+--------------------
+ROUND 8
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: False
+--------------------
+ROUND 9
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: -1
+Bob: -1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 10
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 11
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: 1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 12
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 13
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 14
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 15
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: False
+--------------------
+ROUND 16
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 17
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00101 | 
+Probability | 1.000 | 
+
+Referee: 101
+i: 1, j: -1, k: 1
+q: 2
+
+Alice: 1
+Bob: -1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 18
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 19
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: 1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 20
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 21
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 22
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00101 | 
+Probability | 1.000 | 
+
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
+
+Alice: 1
+Bob: -1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 23
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Referee: 101
+i: 1, j: -1, k: 1
+q: 2
+
+Alice: 1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 24
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 25
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 101
+i: 1, j: -1, k: 1
+q: 2
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 26
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 27
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 28
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 29
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 30
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 31
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 32
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: 1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: False
+--------------------
+ROUND 33
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: False
+--------------------
+ROUND 34
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: False
+--------------------
+ROUND 35
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 36
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: 1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 37
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: 1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 38
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 39
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 40
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 41
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 001
+i: -1, j: -1, k: 1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 42
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: False
+--------------------
+ROUND 43
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 44
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 45
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 46
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00101 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: 1
+Bob: -1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 47
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: -1
+Bob: -1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 48
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: -1
+Bob: -1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 49
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00101 | 
+Probability | 1.000 | 
+
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: 1
+Bob: -1
+Charlie: 1
+Condition: 1.0
+Win: False
+--------------------
+ROUND 50
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 51
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 52
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 53
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: 1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 54
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 55
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 56
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 57
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: -1
+Bob: -1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 58
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: -1
+Bob: -1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 59
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 60
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 61
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 62
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: -1
+Bob: -1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 63
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 64
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 65
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 001
+i: -1, j: -1, k: 1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 66
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 001
+i: -1, j: -1, k: 1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 67
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 001
+i: -1, j: -1, k: 1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 68
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: -1
+Bob: -1
+Charlie: 1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 69
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 70
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 71
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 101
+i: 1, j: -1, k: 1
+q: 2
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 72
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00101 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: 1
+Bob: -1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 73
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 74
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 75
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 76
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 001
+i: -1, j: -1, k: 1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 77
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 001
+i: -1, j: -1, k: 1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: False
+--------------------
+ROUND 78
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 79
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 80
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 81
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 82
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 83
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 84
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 85
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 001
+i: -1, j: -1, k: 1
+q: 1
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: False
+--------------------
+ROUND 86
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 87
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 88
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00101 | 
+Probability | 1.000 | 
+
+Referee: 011
+i: -1, j: 1, k: 1
+q: 2
+
+Alice: 1
+Bob: -1
+Charlie: 1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 89
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00011 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: 1
+Bob: 1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 90
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: -1.0
+Win: True
+--------------------
+ROUND 91
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00100 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: -1
+Bob: -1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 92
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 010
+i: -1, j: 1, k: -1
+q: 1
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 93
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 94
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00110 | 
+Probability | 1.000 | 
+
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: -1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: False
+--------------------
+ROUND 95
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 96
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 110
+i: 1, j: 1, k: -1
+q: 2
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: -1.0
+Win: False
+--------------------
+ROUND 97
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00001 | 
+Probability | 1.000 | 
+
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: 1
+Bob: -1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 98
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00111 | 
+Probability | 1.000 | 
+
+Referee: 100
+i: 1, j: -1, k: -1
+q: 1
+
+Alice: 1
+Bob: 1
+Charlie: 1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 99
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00010 | 
+Probability | 1.000 | 
+
+Referee: 000
+i: -1, j: -1, k: -1
+q: 0
+
+Alice: -1
+Bob: 1
+Charlie: -1
+Condition: 1.0
+Win: True
+--------------------
+ROUND 100
+--------------------
+Waiting for results...
+Waiting for results...
+Waiting for results...
+Waiting for results...
+---------------------
+RESULTS: 
+---------------------
+State       | 00000 | 
+Probability | 1.000 | 
+
+Referee: 111
+i: 1, j: 1, k: 1
+q: 3
+
+Alice: -1
+Bob: -1
+Charlie: -1
+Condition: -1.0
+Win: True
+
+File computed_results.txt has been created.
+
+--------------------
+FINAL RESULTS
+--------------------
+Rounds: 100
+Wins:  77
+Losses: 23
+P(win): 0.77
