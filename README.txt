@@ -8,8 +8,8 @@ If we average over a large sample (n=100), and the inputs are randomly distribut
 game using a classical strategy is 6/8 or = 0.75. However, if we look at the quantum strategy,
 it provides us with a probability of winning as (2√2 + 4)/8 = 0.8535. This is simply due to 
 the fact that the maximal violation of the Svetlichny inequality is 4√2. As you can see from the two
-probabilites, the quantum strategy is superior to the classical strategy. But is this true when 
-utalizing a real quantum computer?
+probabilities, the quantum strategy is superior to the classical strategy. But is this true when 
+utilizing a real quantum computer?
 
 --------------------
 FINAL CLASSICAL RESULTS
@@ -39,6 +39,10 @@ Wins:  77
 Losses: 23
 P(win): 0.77
 
+----------------------------
+Statistical Analysis
+----------------------------
+
 The above result shows that a real quantum computer does not perform near as well as its simulated
 self. Due to errors, the computed results deviate approx. 8% away form the expected mean (but still
 better than the classical strategy).
@@ -46,8 +50,7 @@ better than the classical strategy).
 Now that we know the results, are these results enough to say that the quantum strategy is "statistically"
 superior to its classical cousin?  
 
-A one sample t-test of the results derived from the quantum strategy provided
-the following output in R:
+A one sample t-test of the results derived from the quantum strategy provided the following output in R:
 
         One Sample t-test
 
@@ -60,19 +63,16 @@ sample estimates:
 mean of x 
      0.77 
      
-Conclusion: We can be 95% certain that that true mean of the computed quantum strategy lies within
-(0.69, 0.85) at a p-value < 0.0001.
+Conclusion: We can be 95% certain that that true mean of the computed quantum strategy lies within (0.69, 0.85) at a p-value < 0.0001.
 
-A proportion table between the computed classical/quantum solution produced
-the folloing output in R:
+A proportion table between the computed classical/quantum solution produced the following output in R:
 
 		type
 result  class comp
-  FALSE    30   23
-  TRUE     70   77
+  LOSE    30   23
+  WIN     70   77
   
-This talbe was used to perform Fisher's exact test was used to test whether the difference between 
-70% and 77% is statisticall significant.
+This table was used to perform Fisher's exact test was used to test whether the difference between 70% and 77% is statistically significant.
   
 		Fisher's Exact Test for Count Data
 
@@ -89,7 +89,7 @@ Conclusion: Given a p-value of 0.3364, there is is little to no evidence to sugg
 of wins between the classical strategy and the quantum strategy is not equal to 1. As a result, we cannot 
 reject the null hypothesis and conclude that there is no significant difference between these proportions. 
   
-This table was used to perform a two sided test for equality of proportions provided the folloing output in R:
+This table was also used to perform a two sided test for equality of proportions provided the following output in R:
 
         2-sample test for equality of proportions with continuity correction
 
