@@ -71,7 +71,8 @@ result  class comp
   FALSE    30   23
   TRUE     70   77
   
-This talbe was used to perform Fisher's exact test was used to test whether the difference between 70% and 77% is statisticall significant.
+This talbe was used to perform Fisher's exact test was used to test whether the difference between 
+70% and 77% is statisticall significant.
   
 		Fisher's Exact Test for Count Data
 
@@ -84,7 +85,9 @@ sample estimates:
 odds ratio 
   1.432171 
   
-Conclusion: Given a p-value of 0.3364, there is is little to no evidence to suggest that the proportions of wins between the classical strategy and the quantum strategy is not equal to 1. As a result, we cannot reject the null hypothesis and conclude that there is no significant difference between these proportions. 
+Conclusion: Given a p-value of 0.3364, there is is little to no evidence to suggest that the proportions
+of wins between the classical strategy and the quantum strategy is not equal to 1. As a result, we cannot 
+reject the null hypothesis and conclude that there is no significant difference between these proportions. 
   
 This table was used to perform a two sided test for equality of proportions provided the folloing output in R:
 
@@ -99,4 +102,5 @@ sample estimates:
    prop 1    prop 2 
 0.5660377 0.4761905 
 
-Conclusion: We can be 95% certain that the true difference between the classical proportion of won games and the computed quantum proportions of won games is between -7.9% and 25.9%.
+Conclusion: We can be 95% certain that the true difference between the classical proportion of won games and
+the computed quantum proportions of won games is between -7.9% and 25.9%.
