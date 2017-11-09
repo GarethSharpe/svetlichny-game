@@ -1,6 +1,7 @@
 '''
 Created on Jul 23, 2017
 Finalized on Jul 26, 2017
+adapted for ibmqx4 by Marcus Edwards on November 9, 2017
 
 @author: Gareth Sharpe
 '''
@@ -9,16 +10,16 @@ from random import choice
 
 from IBMQuantumExperience import IBMQuantumExperience 
 
-API_TOKEN = 'f7403a463f5e9f9e9fb5acd4e664f436d1ac3c5f323f11c235da7294e749bc3a564f7e2977579c3a600716fe5ea49b905c8c9bbace7bf2b4af44641207e35ae5'
+API_TOKEN = 'a0f9090f4b9b0a7f86cb31848730654bb4dbc35aab364a7d728162c96b264752d413b88daea7303c87f12e0a719345119c0f8a880a27d73b998887664a989fce' #'f7403a463f5e9f9e9fb5acd4e664f436d1ac3c5f323f11c235da7294e749bc3a564f7e2977579c3a600716fe5ea49b905c8c9bbace7bf2b4af44641207e35ae5'
 
-api = IBMQuantumExperience.IBMQuantumExperience(API_TOKEN)
+api = IBMQuantumExperience(API_TOKEN)
 
 def test_api_auth_token():
     '''
     Authentication with Quantum Experience Platform
     '''
-    api = IBMQuantumExperience.IBMQuantumExperience(API_TOKEN)
-    credential = api._check_credentials()
+    api = IBMQuantumExperience(API_TOKEN)
+    credential = api.check_credentials()
 
     return credential
 
@@ -36,7 +37,7 @@ def connect():
 
 def simulated_svetlichny():
     
-    api = IBMQuantumExperience.IBMQuantumExperience(API_TOKEN)
+    api = IBMQuantumExperience(API_TOKEN)
     device = 'simulator'
     
     qasm = """IBMQASM 2.0;include "qelib1.inc";qreg q[5];creg c[5];h q[0];cx q[0],q[1];cx q[1],q[2];"""
@@ -151,5 +152,5 @@ def simulated_game(rounds, file_name=None):
     print("Losses: " + str(rounds - wins))
     print("P(win): " + str(wins / rounds))
 
-# simulated_game(100)
+simulated_game(10)
 # simulated_game(100, "simulated_results.txt")
