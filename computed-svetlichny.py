@@ -1,6 +1,7 @@
 '''
 Created on Jul 23, 2017
 Finalized on Jul 26, 2017
+adapted for ibmqx4 by Marcus Edwards on November 9, 2017
 
 @author: Gareth Sharpe
 '''
@@ -34,7 +35,7 @@ def connect():
         print("API authentication failure.")
         exit()
 
-def simulated_svetlichny():
+def computed_svetlichny():
     
     api = IBMQuantumExperience(API_TOKEN)
     device = 'simulator'
@@ -116,7 +117,7 @@ def print_results(exp):
     
     return state
 
-def simulated_game(rounds, file_name=None):
+def computed_game(rounds, file_name=None):
     
     if file_name:
         file = open(file_name, 'w')
@@ -129,7 +130,7 @@ def simulated_game(rounds, file_name=None):
         print("--------------------")
         print("ROUND " + str(i))
         print("--------------------")
-        result = simulated_svetlichny()
+        result = computed_svetlichny()
         wins += result
         
         if file_name:
@@ -151,5 +152,5 @@ def simulated_game(rounds, file_name=None):
     print("Losses: " + str(rounds - wins))
     print("P(win): " + str(wins / rounds))
 
-simulated_game(10)
-# simulated_game(100, "simulated_results.txt")
+computed_game(10)
+# computed_game(100, "computed_results.txt")
