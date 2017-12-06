@@ -38,7 +38,7 @@ def connect():
 def computed_svetlichny():
     
     api = IBMQuantumExperience(API_TOKEN)
-    device = 'simulator'
+    device = 'ibmqx4'
     
     qasm = """IBMQASM 2.0;include "qelib1.inc";qreg q[5];creg c[5];h q[0];cx q[2],q[1];cx q[1],q[0];"""
     
@@ -103,13 +103,15 @@ def print_results(exp):
     print("---------------------")
     states = "State       | "
     probabilities = "Probability | "
-
-    for i in range(len(exp['result']['measure']['labels'])):
-        state = exp['result']['measure']['labels'][i]
-        probability = exp['result']['measure']['values'][i]
-
-        states += str(state) + " | " 
-        probabilities += "{:.3f}".format(probability) + " | "
+    if 'result' in exp:
+        for i in range(len(exp['result']['measure']['labels'])):
+            state = exp['result']['measure']['labels'][i]
+            probability = exp['result']['measure']['values'][i]
+    
+            states += str(state) + " | " 
+            probabilities += "{:.3f}".format(probability) + " | "
+    else:
+        print("Bad API response!")
         
     print(states)
     print(probabilities)
@@ -141,7 +143,7 @@ def computed_game(rounds, file_name=None):
     if file_name:
         print()
         print("File " + file_name + " has been created.")
-        file.close()    
+        file.close()
     
     print()
     print("--------------------")
@@ -152,5 +154,5 @@ def computed_game(rounds, file_name=None):
     print("Losses: " + str(rounds - wins))
     print("P(win): " + str(wins / rounds))
 
-computed_game(10)
-# computed_game(100, "computed_results.txt")
+#computed_game(10)
+computed_game(100, "computed_results.txt")
