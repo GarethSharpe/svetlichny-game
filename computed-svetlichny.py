@@ -40,7 +40,7 @@ def computed_svetlichny():
     api = IBMQuantumExperience(API_TOKEN)
     device = 'ibmqx4'
     
-    qasm = """IBMQASM 2.0;include "qelib1.inc";qreg q[5];creg c[5];h q[0];cx q[2],q[1];cx q[1],q[0];"""
+    qasm = """IBMQASM 2.0;include "qelib1.inc";qreg q[5];creg c[5];h q[2];cx q[2],q[1];cx q[1],q[0];"""
     
     # The referee chooses a three bit string r s t uniformly from the set {000, 011, 101, 110}
     set = ['000', '001', '010', '011', '100', '101', '110', '111']
@@ -63,30 +63,33 @@ def computed_svetlichny():
     exp = api.run_experiment(qasm, device, 1)
    
     state = print_results(exp)
-    state = state[2::]
-    
-    alice = int(state[2])
-    bob = int(state[1])
-    charlie = int(state[0])
-    
-    if alice == 0:
-        alice = -1
-    if bob == 0:
-        bob = -1
-    if charlie == 0:
-        charlie = -1
-    
-    print("Referee: " + referee)
-    print("i: " + str(i) + ", j: " + str(j) + ", k: " + str(k))
-    print("q: " + str(q))
-    print()
-    print("Alice: " + str(alice))
-    print("Bob: " + str(bob))
-    print("Charlie: " + str(charlie))
-    
-    win = get_result(alice, bob, charlie, q)
-    print("Win: " + str(win))
-    return win
+    if(state is not None):
+        state = state[2::]
+        
+        alice = int(state[2])
+        bob = int(state[1])
+        charlie = int(state[0])
+        
+        if alice == 0:
+            alice = -1
+        if bob == 0:
+            bob = -1
+        if charlie == 0:
+            charlie = -1
+        
+        print("Referee: " + referee)
+        print("i: " + str(i) + ", j: " + str(j) + ", k: " + str(k))
+        print("q: " + str(q))
+        print()
+        print("Alice: " + str(alice))
+        print("Bob: " + str(bob))
+        print("Charlie: " + str(charlie))
+        
+        win = get_result(alice, bob, charlie, q)
+        print("Win: " + str(win))
+        return win
+    else:
+        return 0
     
 def get_result(a, b, c, q):
     condition = (-1) ** (q * (q-1) / 2)
@@ -110,20 +113,21 @@ def print_results(exp):
     
             states += str(state) + " | " 
             probabilities += "{:.3f}".format(probability) + " | "
+            
+        print(states)
+        print(probabilities)
+        print()
+        
+        return state
+    
     else:
         print("Bad API response!")
-        
-    print(states)
-    print(probabilities)
-    print()
-    
-    return state
 
 def computed_game(rounds, file_name=None):
     
     if file_name:
         file = open(file_name, 'w')
-        file.write("round, result, cumulative, average\n") 
+        file.write("round, result, cumulative, average\n")
     
     wins = 0
     
